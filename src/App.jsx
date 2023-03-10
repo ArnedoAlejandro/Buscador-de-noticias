@@ -3,6 +3,7 @@ import {Container, Grid, Typography} from '@mui/material';
 import Formulario from './componets/Formulario';
 import { NoticiasProvider } from './context/NoticiasProvider';
 import ListadoNoticias from "./componets/ListadoNoticias"
+import index from "./index.css"
 
 
 
